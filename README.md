@@ -4,4 +4,4 @@ A simple Truth-Or-Dare game card for college party night.
 Created using **Flutter** framework.
 
 ## Usage
-Click [here](khangkontum.github.io) to use.
+Click [here](https://khangkontum.github.io) to use.
